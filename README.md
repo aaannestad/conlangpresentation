@@ -1,0 +1,1 @@
+If you don't know how to do TeX, just download the PDF and comment it up with your favourite PDF viewer! If you do, the main TeX file is there for you to edit and do pull requests etc; it requires XeLaTeX or LuaLaTeX and like two packages and that's it.
